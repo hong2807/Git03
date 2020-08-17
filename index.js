@@ -4,3 +4,8 @@ functionMain() {
     console.log('Done Bài tập buổi 1');
 }
 
+functionMain() {
+    console.log('Done Bài tập buổi 2');
+}
+
+
