@@ -8,4 +8,9 @@ functionMain() {
     console.log('Done Bài tập buổi 2');
 }
 
+functionMain() {
+    console.log('Done Bài tập buổi 3');
+}
+
+
 
